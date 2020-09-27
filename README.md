@@ -1,2 +1,5 @@
-# -Web-Programming-4
-Assignment 4 for Web Programming in HTML and CSS. View Stella Gurin's other projects on GitHub. 
+# Web Programming - Assignment 4
+
+This is the fourth assignment for Web Programming, written in HTML and CSS. Here is a screenshot of what it looks like:
+
+![Screenshot](webpage-screenshot-4.png)
